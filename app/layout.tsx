@@ -1,4 +1,5 @@
 // app/layout.tsx
+
 export const metadata = {
   title: 'Gathering App',
   description: 'Scan QR untuk dapetin nomor kelompok',
